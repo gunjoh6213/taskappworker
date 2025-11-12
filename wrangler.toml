@@ -1,0 +1,6 @@
+name = "task-app-worker"
+main = "src/index.ts"
+compatibility_date = "2025-11-11"
+
+# public/ 配下を静的配信（CSS/JS/画像）
+assets = { directory = "./public" }
